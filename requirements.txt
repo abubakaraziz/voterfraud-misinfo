@@ -1,0 +1,14 @@
+transformers>=4.2.0
+numpy
+pandas
+requests
+tqdm>=4.47.0
+scipy
+scikit-learn
+seqeval
+tensorboardx
+pandas
+tokenizers
+wandb
+streamlit
+sentencepiece
