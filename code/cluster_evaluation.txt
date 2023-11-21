@@ -1,0 +1,42 @@
+
+ paraphrase-distilroberta-base-v1
+	 Mutual info 	 0.026099301766025346
+	 Homogeneity 	 0.9143618295208139
+	 Completeness 	 0.08692407849509917
+	 Randscore 	 0.1689795918367347
+	 Vscore 	 0.15875597330573152
+
+ msmarco-distilroberta-base-v2
+	 Mutual info 	 -0.00999607684975486
+	 Homogeneity 	 0.8287236590416298
+	 Completeness 	 0.0734672968189319
+	 Randscore 	 0.15755102040816327
+	 Vscore 	 0.1349694023070936
+
+ stsb-roberta-base
+	 Mutual info 	 -0.02393027336643457
+	 Homogeneity 	 0.7430854885624446
+	 Completeness 	 0.06637932200532658
+	 Randscore 	 0.156734693877551
+	 Vscore 	 0.12187190914000141
+
+ stsb-roberta-large
+	 Mutual info 	 0.003572117604411057
+	 Homogeneity 	 0.914361829520815
+	 Completeness 	 0.08022031868165001
+	 Randscore 	 0.15755102040816327
+	 Vscore 	 0.14749992745609694
+
+ quora-distilbert-base
+	 Mutual info 	 0.028727005014921182
+	 Homogeneity 	 0.9999999999999997
+	 Completeness 	 0.09071729536866073
+	 Randscore 	 0.16489795918367348
+	 Vscore 	 0.16634428692725264
+
+ stsb-distilbert-base
+	 Mutual info 	 -0.014955919357120775
+	 Homogeneity 	 0.8287236590416299
+	 Completeness 	 0.07216476849191224
+	 Randscore 	 0.15510204081632653
+	 Vscore 	 0.13276816345003603
